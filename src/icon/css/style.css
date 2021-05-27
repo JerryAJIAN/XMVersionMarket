@@ -112,7 +112,7 @@ a {
     display: block;
     width: 55px;
     height: 55px;
-    background: #ff6700 url(../img/mi-logo.png) no-repeat 50% 50%;
+    background: #ff6700 url(../../HTML/img/mi-logo.png) no-repeat 50% 50%;
 }
 .header-logo .lr {
     text-align: left;
@@ -207,7 +207,7 @@ a {
 .seckill-head {
     margin-top: 19px;
     height: 170px;
-    background: url(../img/seckill-head.jpg) no-repeat 50% 0;
+    background: url(../../HTML/img/seckill-head.jpg) no-repeat 50% 0;
 }
 .seckill-nav {
     margin: -68px 0 22px;
