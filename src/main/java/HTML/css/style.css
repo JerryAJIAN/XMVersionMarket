@@ -178,7 +178,7 @@ a{
     width:296px;
     height:50px;
     margin-top:25px;
-    border: 1px solid black;
+   /* border: 1px solid black;*/
 }
 
 .header-search .header-search{
@@ -195,7 +195,19 @@ a{
     height:50px;
     line-height: 50px;
     border: 1px solid #e0e0e0;
-
+    online:0;
 }
 
+.header-search .search-form .search-btn{
+    display: block;
+    width: 52px;
+    height: 50px;
+    border: 1px solid #e0e0e0;
+    font-size:24px;
+    line-height:24px;
+    background-color:white;
+    color: #616161;
+    outline: none;
 
+
+}
